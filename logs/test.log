@@ -1,0 +1,9 @@
+[INFO ] 2021-07-06 08:26:36.787 [main] base - Starting Testcase com.nine.test.test.CompaniesPageTest
+[INFO ] 2021-07-06 08:27:51.836 [main] CompaniesPageTest - Starting Testcase com.nine.test.test.CompaniesPageTest
+[INFO ] 2021-07-06 08:29:12.402 [main] base - Finishing Testcasecom.nine.test.test.CompaniesPageTest
+[INFO ] 2021-07-06 08:29:19.248 [main] base - Starting Testcase com.nine.test.test.HomePageTest
+[INFO ] 2021-07-06 08:30:14.689 [main] HomePageTest - Starting Testcase com.nine.test.test.HomePageTest
+[INFO ] 2021-07-06 08:30:14.955 [main] base - Finishing Testcasecom.nine.test.test.HomePageTest
+[INFO ] 2021-07-06 08:30:17.911 [main] base - Starting Testcase com.nine.test.test.PolicyPageTest
+[INFO ] 2021-07-06 08:30:55.702 [main] PolicyPageTest - Starting Testcase com.nine.test.test.PolicyPageTest
+[INFO ] 2021-07-06 08:31:22.256 [main] base - Finishing Testcasecom.nine.test.test.PolicyPageTest

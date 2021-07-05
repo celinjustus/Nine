@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-05T22:26:36Z" name="Command line suite" finished-at="2021-07-05T22:31:24Z" duration-ms="287599">
+    <groups>
+    </groups>
+    <test started-at="2021-07-05T22:26:36Z" name="Command line test" finished-at="2021-07-05T22:31:24Z" duration-ms="287599">
+      <class name="com.nine.test.test.PolicyPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nine.test.test.PolicyPageTest@479cbee5]" started-at="2021-07-05T22:30:17Z" name="setup" finished-at="2021-07-05T22:30:55Z" duration-ms="37791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPopup()[pri:0, instance:com.nine.test.test.PolicyPageTest@479cbee5]" started-at="2021-07-05T22:30:55Z" name="verifyPopup" finished-at="2021-07-05T22:31:22Z" duration-ms="26554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPopup -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.nine.test.test.PolicyPageTest@479cbee5]" started-at="2021-07-05T22:31:22Z" name="finish" finished-at="2021-07-05T22:31:24Z" duration-ms="2114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.nine.test.test.PolicyPageTest -->
+      <class name="com.nine.test.test.CompaniesPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nine.test.test.CompaniesPageTest@4ef782af]" started-at="2021-07-05T22:26:36Z" name="setup" finished-at="2021-07-05T22:27:51Z" duration-ms="74429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNewsTitle()[pri:0, instance:com.nine.test.test.CompaniesPageTest@4ef782af]" started-at="2021-07-05T22:27:51Z" name="verifyNewsTitle" finished-at="2021-07-05T22:29:12Z" duration-ms="80553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewsTitle -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.nine.test.test.CompaniesPageTest@4ef782af]" started-at="2021-07-05T22:29:12Z" name="finish" finished-at="2021-07-05T22:29:19Z" duration-ms="6846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.nine.test.test.CompaniesPageTest -->
+      <class name="com.nine.test.test.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nine.test.test.HomePageTest@11d8ae8b]" started-at="2021-07-05T22:29:19Z" name="setup" finished-at="2021-07-05T22:30:14Z" duration-ms="55440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="launchHomePageTest()[pri:0, instance:com.nine.test.test.HomePageTest@11d8ae8b]" started-at="2021-07-05T22:30:14Z" name="launchHomePageTest" finished-at="2021-07-05T22:30:14Z" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchHomePageTest -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.nine.test.test.HomePageTest@11d8ae8b]" started-at="2021-07-05T22:30:14Z" name="finish" finished-at="2021-07-05T22:30:17Z" duration-ms="2959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.nine.test.test.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

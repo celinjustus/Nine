@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-05T21:07:25Z" name="nineTestSuite" finished-at="2021-07-05T21:10:18Z" duration-ms="173620">
+    <groups>
+    </groups>
+    <test started-at="2021-07-05T21:07:25Z" name="Test" finished-at="2021-07-05T21:10:18Z" duration-ms="173620">
+      <class name="com.nine.test.test.PolicyPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nine.test.test.PolicyPageTest@258d79be]" started-at="2021-07-05T21:08:10Z" name="setup" finished-at="2021-07-05T21:08:37Z" duration-ms="27306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPopup()[pri:0, instance:com.nine.test.test.PolicyPageTest@258d79be]" started-at="2021-07-05T21:08:37Z" name="verifyPopup" finished-at="2021-07-05T21:09:02Z" duration-ms="25256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPopup -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.nine.test.test.PolicyPageTest@258d79be]" started-at="2021-07-05T21:09:02Z" name="finish" finished-at="2021-07-05T21:09:04Z" duration-ms="1467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.nine.test.test.PolicyPageTest -->
+      <class name="com.nine.test.test.CompaniesPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nine.test.test.CompaniesPageTest@14f9390f]" started-at="2021-07-05T21:09:04Z" name="setup" finished-at="2021-07-05T21:09:21Z" duration-ms="17253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNewsTitle()[pri:0, instance:com.nine.test.test.CompaniesPageTest@14f9390f]" started-at="2021-07-05T21:09:21Z" name="verifyNewsTitle" finished-at="2021-07-05T21:10:14Z" duration-ms="52892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewsTitle -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.nine.test.test.CompaniesPageTest@14f9390f]" started-at="2021-07-05T21:10:14Z" name="finish" finished-at="2021-07-05T21:10:18Z" duration-ms="4237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.nine.test.test.CompaniesPageTest -->
+      <class name="com.nine.test.test.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.nine.test.test.HomePageTest@68d279ec]" started-at="2021-07-05T21:07:25Z" name="setup" finished-at="2021-07-05T21:08:05Z" duration-ms="40784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="launchHomePageTest()[pri:0, instance:com.nine.test.test.HomePageTest@68d279ec]" started-at="2021-07-05T21:08:05Z" name="launchHomePageTest" finished-at="2021-07-05T21:08:05Z" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchHomePageTest -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:com.nine.test.test.HomePageTest@68d279ec]" started-at="2021-07-05T21:08:05Z" name="finish" finished-at="2021-07-05T21:08:10Z" duration-ms="4335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- com.nine.test.test.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- nineTestSuite -->
+</testng-results>
